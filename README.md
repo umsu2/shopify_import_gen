@@ -1,2 +1,2 @@
-# shopify_import_gen
+# shopify import generator
 because making fake product/customer/orders on shopify is hard ?
